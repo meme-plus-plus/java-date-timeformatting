@@ -12,6 +12,8 @@ Documentation and sample java code experimenting with various libraries involvin
 
 [Stack Overflow - Always a resource ](https://stackoverflow.com/questions/2891361/how-to-set-time-zone-of-a-java-util-date)
 
+[Java SE 8 Date And Time - Ben Evans and Richard Warburton](https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html)
+
 
 
 
